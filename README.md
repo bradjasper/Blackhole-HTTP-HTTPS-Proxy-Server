@@ -4,7 +4,7 @@ This is a blackhole proxy server written in Python that kills any request and op
 
 ## Why would you need this?
 
-This is an important piece of (http://www.heyfocus.com/)[Focus], a Mac app that blocks distracting websites.
+This is an important piece of [Focus](http://www.heyfocus.com/), a Mac app that blocks distracting websites.
 
 ## How does it work?
 
